@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error that occurs when performing arithmetic operations with mismatched types. The `bug.ts` file shows the erroneous code, while `bugSolution.ts` provides the corrected version with type checking and error handling.
